@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="party_num_prompt">Number of People in Party</string>
+    <string name="done">DONE</string>
+    <string name="party_mem">Party Member #</string>
+</resources>
